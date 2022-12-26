@@ -24,12 +24,6 @@ ADD SaleDateConverted Date;
 Update NashvilleHousing
 Set SaleDateConverted = CONVERT(Date,SaleDate)
 
--- If it doesn't Update properly
-
-
-
-
-
 -- Populate Property Address data
 
 
